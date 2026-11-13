@@ -112,3 +112,8 @@ Both default to `--day-start 05:00` and print the exact window they used.
   from entries dated 2026-10-28 .. 2026-11-06. Its worked example is synthetic,
   so the file is safe to share; the skill reads your actual recent entries at
   run time for the real voice. If the house style drifts, update that file.
+
+## License
+
+MIT — see [LICENSE](LICENSE). Use it, fork it, adapt it; just keep the
+copyright notice.
